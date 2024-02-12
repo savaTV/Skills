@@ -18,6 +18,7 @@ public class Zadacha5 {
 
         }else {
             System.out.println("первые буквы не совпадают");
+            System.out.println("привет");
         }
     }
 }
